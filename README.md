@@ -12,8 +12,6 @@ Note: - This project can be helpful for helpful for beginners only.
       - If you find this project helpful, please give me ⭐.
 
 
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/master/assets/Screenshots/logo.png" width="350px">
-
 ## Getting Started
 
 This is a sign up ui.
@@ -22,18 +20,18 @@ This is a sign up ui.
 
 <div>
 
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-39-16-917.jpeg" width="350px">
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-40-20-075.jpeg" width="350px">
+<img src="https://github.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-39-16-917.jpeg" width="350px">
+<img src="https://github.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-40-20-075.jpeg" width="350px">
 </div>
 
 <h3> Login Screen </h3>
 <div>
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-40-36-507.jpeg" width="350px">
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-41-03-628.jpeg" width="350px">
+<img src="https://github.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-40-36-507.jpeg" width="350px">
+<img src="https://github.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-41-03-628.jpeg" width="350px">
 </div>
 
 <h3>Home Screen </h3>
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-41-15-010.jpeg" width="350px">
+<img src="https://github.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-41-15-010.jpeg" width="350px">
 
 A few resources to get you started if this is your first Flutter project:
 
