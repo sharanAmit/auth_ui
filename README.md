@@ -8,8 +8,8 @@ I have used hive, by exciting with it's performance, which is shown by this [ben
 
 I have also used launcher_icon and splash_screen in this project.
 
-Note: - This project can be helpful for beginners only.
-      - If you find this project helpful, please give ⭐ to this repo.
+Note: This project can be helpful for beginners only.
+      If you find this project helpful, please give ⭐ to this repo.
 
 
 ## Getting Started
