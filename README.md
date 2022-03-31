@@ -21,18 +21,19 @@ This is a sign up ui.
 <h3> Sign Up Screen </h3>
 
 <div>
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/assets/Screenshots/Screenshot_2022-03-31-20-39-16-917.jpeg" width="350px">
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/assets/Screenshots/Screenshot_2022-03-31-20-40-20-075.jpeg" width="350px">
+
+<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-39-16-917.jpeg" width="350px">
+<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-40-20-075.jpeg" width="350px">
 </div>
 
 <h3> Login Screen </h3>
 <div>
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/assets/Screenshots/Screenshot_2022-03-31-20-40-36-507.jpeg" width="350px">
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/assets/Screenshots/Screenshot_2022-03-31-20-41-03-628.jpeg" width="350px">
+<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-40-36-507.jpeg" width="350px">
+<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-41-03-628.jpeg" width="350px">
 </div>
 
 <h3>Home Screen </h3>
-<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/assets/Screenshots/Screenshot_2022-03-31-20-41-15-010.jpeg" width="350px">
+<img src="https://raw.githubusercontent.com/sharanAmit/auth_ui/blob/main/assets/Screenshots/Screenshot_2022-03-31-20-41-15-010.jpeg" width="350px">
 
 A few resources to get you started if this is your first Flutter project:
 
